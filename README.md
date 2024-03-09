@@ -8,4 +8,9 @@ I graduated with Highest Honors with a degree in Biomedical Engineering from Geo
 
 I am an aspiring data scientist passionate about applying machine learning to improve business decisions.
 
-You can reach me on my email rj30@mit.edu, [LinkedIn](https://www.linkedin.com/in/rrmj/) and [GitHub](https://github.com/raghavmanoharanjayanthi30).
+Please feel free to reach out to me on:
+Email: rj30@mit.edu
+Github: [LinkedIn](https://www.linkedin.com/in/rrmj/) 
+LinkedIn: [GitHub](https://github.com/raghavmanoharanjayanthi30).
+
+Happy to connect and have a discussion!
