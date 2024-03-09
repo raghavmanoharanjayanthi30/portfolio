@@ -10,7 +10,7 @@ I am an aspiring data scientist passionate about applying machine learning to im
 
 Please feel free to reach out to me on:<br>
 Email: rj30@mit.edu<br>
-GitHub: [LinkedIn](https://www.linkedin.com/in/rrmj/)<br>
-LinkedIn: [GitHub](https://github.com/raghavmanoharanjayanthi30)<br>
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/rrmj/)<br>
+Github: [GitHub](https://github.com/raghavmanoharanjayanthi30)<br>
 
 Happy to connect and have a discussion!
