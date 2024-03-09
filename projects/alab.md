@@ -7,9 +7,9 @@ CMA CGM is the largest shipping company in the United States and handles more th
 Built an AI email assistant that generates recommended replies to emails based on the task to be completed and further input from the customer agent. The assistant not only generates recommended replies to emails, but also provides an option for the customer agent to correct any categories the assistant might have miscategorized, enabling collection of feedback which can be used to further improve the responses.
 
 **Actions**  
-![Profile Picture](pictures/alab_processing_pipeline.jpg)  
-![Profile Picture](pictures/alab_interface.jpg)  
-![Profile Picture](pictures/summary.jpg)
+![Profile Picture](portfolio/pictures/alab_processing_pipeline.jpg)  
+![Profile Picture](portfolio/pictures/alab_interface.jpg)  
+![Profile Picture](portfolio/pictures/summary.jpg)
 
 **Impact**  
 Projected to reduce time spent on email replies by 38.1%, leading to time savings of over 77k hours/year and $2.2M in productivity improvements/year.
