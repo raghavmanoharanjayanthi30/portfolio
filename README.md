@@ -1,6 +1,5 @@
-# Data Scientist
-
-Hi there! 👋
+# About
+Hello there! 👋
 
 I’m Raghav, a Masters of Business Analytics candidate at MIT graduating in August 2024. I am currently working as a Graduate Research Assistant under the supervision of Professor Swati Gupta in the Operations Research Center in collaboration with Massachusetts General Hospital, applying machine learning in kidney transplant allocation.
 
@@ -14,3 +13,8 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/rrmj/)<br>
 Github: [GitHub](https://github.com/raghavmanoharanjayanthi30)<br>
 
 Happy to connect and have a discussion!
+
+# Projects
+
+
+
