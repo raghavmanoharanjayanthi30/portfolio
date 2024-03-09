@@ -1,6 +1,5 @@
 # About
 ![Profile Picture](pictures/profile.jpg)<br>
-<img src="portfolio/profile.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;"><br>
 
 Hello there! 👋
 
