@@ -40,7 +40,7 @@ Projected to reduce time spent on email replies by 38.1%, leading to time saving
 
 - Devise a more efficient method to identify task categories, such as delivery or rolling requests, to address scalability challenges posed by manually identifying tasks and potential missed categories when new emails of different categories enter the system.
 
-- [MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant](projects/alab.md)
+- [MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant](alab.md)
 
 
 
