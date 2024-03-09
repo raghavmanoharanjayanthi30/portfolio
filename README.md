@@ -15,7 +15,7 @@ Github: [GitHub](https://github.com/raghavmanoharanjayanthi30)<br>
 
 Happy to connect and have a discussion!
 
-# Projects
+# **Projects**
 ## MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant
 
 <b>Background and Problem Statement <b><br>
