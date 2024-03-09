@@ -1,5 +1,4 @@
 # About
-![Profile Picture](pictures/profile.jpg)<br>
 
 Hello there! 👋
 
